@@ -6,7 +6,7 @@
 
     <groupId>cs.ox.ac.uk.softeng</groupId>
     <artifactId>Securities-Trading</artifactId>
-    <name>Securities Trading Project</name>
+    <name>Securities Trading Application</name>
     <packaging>jar</packaging>
     <version>1.0</version>
 
